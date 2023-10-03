@@ -1,8 +1,6 @@
-package ru.geerbrains.lesson1.sample1;
+package ru.geekbrains.lesson1.sample1;
 
-import ru.geerbrains.lesson1.Product;
-
-import java.sql.SQLOutput;
+import ru.geekbrains.lesson1.Product;
 
 public class Program {
     public static void main(String[] args) {

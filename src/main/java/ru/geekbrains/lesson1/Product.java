@@ -1,4 +1,4 @@
-package ru.geerbrains.lesson1;
+package ru.geekbrains.lesson1;
 
 public class Product {
 

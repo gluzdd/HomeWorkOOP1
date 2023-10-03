@@ -1,4 +1,4 @@
-package ru.geerbrains.lesson1;
+package ru.geekbrains.lesson1;
 
 import java.util.List;
 import java.util.Objects;
