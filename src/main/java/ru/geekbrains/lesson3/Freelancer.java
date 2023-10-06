@@ -17,6 +17,6 @@ public class Freelancer extends Employee {
     @Override
     public String toString() {
         return String.format("%s %s; Рабочий; Среднемесячная заработная плата (среднемесячная): %.2f руб. Возраст: %d",
-                surName, name, salary, age);
+                surName, name, calculateSalary(), age);
     }
 }
