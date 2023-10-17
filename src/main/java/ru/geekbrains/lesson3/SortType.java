@@ -1,8 +1,8 @@
-package ru.geekbrains.lesson3;
-
-public enum SortType {
-
-    Ascending,
-    Descending
-
-}
+//package ru.geekbrains.lesson3;
+//
+//public enum SortType {
+//
+//    Ascending,
+//    Descending
+//
+//}
